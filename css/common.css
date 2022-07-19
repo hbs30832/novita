@@ -1,0 +1,12 @@
+:root {
+    --main-color : #772480;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+    background-color: #f2f2f2;
+}
